@@ -1,6 +1,6 @@
 # JS Fundamentals
 ## Array Fundamentals
-- [x] What are Arrays
+- [ ] What are Arrays
 - [ ] Changing Arrays
 - [ ] Repeating loops
 - [ ] CallBack Methods
