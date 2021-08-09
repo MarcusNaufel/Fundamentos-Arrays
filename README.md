@@ -7,7 +7,5 @@
 - [ ] More Array Methods
 
 
-*Track my progress as I complete the course.*
-<h4>Fundamentos do JavaScript: Arrays Alura</h4>
-Course taught by @JulianaAmoasei e @leollo98
+
 
