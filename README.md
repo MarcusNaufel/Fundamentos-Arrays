@@ -4,7 +4,8 @@
 - [x] Changing Arrays
 - [x] Repeating loops
 - [x] CallBack Methods
-- [ ] More Array Methods
+- [x] More Array Methods
+# Curso Finalizado
 
 
 
